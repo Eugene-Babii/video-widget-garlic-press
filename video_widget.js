@@ -15,10 +15,10 @@ const videos = [
 							"Features original round-shaped holes",
 							"Easy-to-hold curved ergonomic design"
 					],
-					"review": "I literally just got this, cleaned it and immediately used it. I got through a whole bag of mini potatoes in a few minutes versus the 45+ minutes it would've taken me to cut by hand and it was FUN. Is it too soon to say I'm in love? Maybe. But I am",
+					"review": "This is the sexiest and best garlic press I have ever bought! The design is so good and super durable. It will never break or bend. The two pieces come apart and the edge of the one side can be used as a scraper for the inside where you squeeze the garlic. Seriously the best. I have tried three other kinds before this one and ended up throwing them all out because they either got bent or just sucked. I am thinking of buying more of these as gifts. It also comes with a really cool box that’s lined with velvet inside and I ended up keeping the box to repackage it after every use.",
 					"faq": {
-							"answer": "The container holds around 6 cups of chopped vegetables. It measures 10 x 4.5 x 4 inches.",
-							"question": "How many cups does the container hold?",
+							"answer": "Crushed garlic is made by flattening it, which results in a more mild flavor. Minced garlic, on the other hand, is finely chopped.",
+							"question": "What’s the difference between crushed and minced garlic?",
 					},
 			},
 			similar_products: [
