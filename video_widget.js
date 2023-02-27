@@ -73,18 +73,21 @@ const videos = [
 			"src": "https://storage.googleapis.com/res-growth/product-assets/B08WHLDMNX/271206259_108838698255805_5643188920067404553_n.mp4",
 			"product": {
 					"brand": "Gourmet Easy",
+					"title": "Garlic press stainless steel",
 			},
 	},
 	{
 			"src": "https://storage.googleapis.com/res-growth/product-assets/B08WHLDMNX/270277179_619214449288495_8613079782030940101_n.mp4",
 			"product": {
 					"brand": "Gourmet Easy",
+					"title": "Garlic press stainless steel",
 			},
 	},
 	{
 			"src": "https://storage.googleapis.com/res-growth/product-assets/B08WHLDMNX/269697142_249677353902647_6704512316621931271_n.mp4",
 			"product": {
 					"brand": "Gourmet Easy",
+					"title": "Garlic press stainless steel",
 			},
 	},
 ];
